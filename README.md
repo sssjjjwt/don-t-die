@@ -54,7 +54,7 @@
 <body>
 
 <div id="chat-box">
-  <h2>🤖 LifeguardBot - 생명존중 AI 챗봇</h2>
+  <h2>🤖 LifeguardBot - 생명존중 챗봇</h2>
   <div id="messages"></div>
 
   <textarea id="userInput" placeholder="지금 어떤 기분이신가요?"></textarea>
